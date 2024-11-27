@@ -1,0 +1,18 @@
+Rotations in Splay Tree
+Zig Rotation   ---> right rotaion 
+Zag Rotation   ---> left rotation
+Zig – Zig Rotation
+Zag – Zag Rotation
+Zig – Zag Rotation
+Zag – Zig Rotation
+
+
+Zig Rotation: If a node has a right child, perform a right rotation to bring it to the root. If it has a left child, perform a left rotation.
+
+Zig-Zig Rotation: If a node has a grandchild that is also its child’s right or left child, perform a double rotation to balance the tree. 
+For example, if the node has a right child and the right child has a left child, perform a right-left rotation. 
+If the node has a left child and the left child has a right child, perform a left-right rotation.
+
+Note: The specific implementation details, including the exact rotations used, may vary depending on the exact form of the splay tree.
+Rotations in Splay Tree
+

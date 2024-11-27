@@ -1,0 +1,18 @@
+Module 1 questions
+1.	Write a C program for addition of two polynomials represented using circular linked list.
+2.	Write a C program for subtraction of one Polynomial from another using doubly linked list. 
+3.	Write a C program for the evaluation a polynomial for some real value of x stored in a doubly circular linked list. 
+4.	Write a C program for the addition of two 2-variable Polynomials. The polynomials are stored in the circular linked lists. 
+5.	Write a C program for the removing all the terms with even exponents from a single variable polynomial stored in a circular linked list. 
+6.	Write a C program for the removing all the terms with odd coefficients from a single variable polynomial stored in a doubly linked list. 
+7.	Write a C program for the removing all the terms with even exponents (summation of x exponent and y exponent) from a 2-variable polynomial stored in a doubly circular linked list. 
+8.	Write a C program for the multiplication of two polynomials represented using circular linked list. 
+9.	Write a C program for the multiplication of two 2-variable Polynomials. The polynomials are stored in the singly linked lists. 
+10.	Write a C program for computing the derivative of the polynomial stored in a circular linked list. 
+11.	Write a C Program for computing the integration of the polynomial stored in a doubly linked list. 
+12.	Write a C Program for computing the Partial differentiation of a 2-variable polynomial stored in a doubly linked list. 
+13.	Write a C program for implementing polynomial Division stored a circular linked list.  
+14.	Write a C program for computing the transpose of a sparse matrix stored in a circular linked list. 
+15.	Write a C program for multiplication of two sparse matrix represented using doubly linked list. 
+16.	Write a C program for implementation of insertion and deletion in a linked priority queue. 
+

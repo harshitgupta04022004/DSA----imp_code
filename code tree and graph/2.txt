@@ -1,0 +1,18 @@
+Evaluation Module 2
+1.	Write a C program for addition of two polynomials represented using doubly linked list. (BT18ECE001-018)
+2.	Write a C program for subtraction of one Polynomial from another using circular linked list. (BT18ECE022-045)
+3.	Write a C program for the evaluation a polynomial for some real value of x stored in a circular linked list. (BT18ECE049-059)
+4.	Write a C program for the addition of two 2-variable Polynomials. The polynomials are stored in the singly linked lists. (121-137) and BT18CSE
+5.	Write a C program for the removing all the terms with odd coefficients from a single variable polynomial stored in a circular linked list. (111-120)
+6.	Write a C program for the removing all the terms with even exponents from a single variable polynomial stored in a doubly linked list. (101-110)
+7.	Write a C program for the removing all the terms with even exponents (summation of x exponent and y exponent) from a 2-variable polynomial stored in a circular linked list. (91-100)
+8.	Write a C program for the multiplication of two polynomials represented using doubly linked list. (81-90)
+9.	Write a C program for the multiplication of two 2-variable Polynomials. The polynomials are stored in the singly linked lists. (71-80)
+10.	Write a C Program for computing the derivative of the polynomial stored in a doubly linked list. (61-70)
+11.	Write a C program for computing the integration of the polynomial stored in a singly linked list. (51-60)
+12.	Write a C Program for computing the Partial differentiation of a 2-variable polynomial stored in a circular linked list. (41-50)
+13.	Write a C program for implementing polynomial Division stored a doubly linked list. (31-40)
+14.	Write a C program for computing the transpose of a sparse matrix stored in a singly linked list. (21-30)
+15.	Write a C program for multiplication of two sparse matrix represented using circular linked list. (11-20)
+16.	Write a C program for implementation of radix sort with the help of linked list. (https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/RadixSort.html). Radix sort should internally use counting sort. (1-10)
+
